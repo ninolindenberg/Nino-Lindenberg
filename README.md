@@ -1,4 +1,4 @@
-# Aeternalis Ingenium
+# Nino Lindenberg
 ## Systems Architect & Visionary Strategist
 
 Dedicated to bridging **timeless principles** with **future-forward innovation**. I specialize in designing robust, scalable frameworks and long-term strategic solutions that withstand the test of time and market shifts.
